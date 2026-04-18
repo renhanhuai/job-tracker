@@ -10,4 +10,5 @@ public class JobTrackerBackendApplication {
 		SpringApplication.run(JobTrackerBackendApplication.class, args);
 	}
 
+
 }
